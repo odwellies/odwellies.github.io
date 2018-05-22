@@ -1,0 +1,43 @@
+
+
+/*First Page */
+#landingPage {
+	height: 100vh;
+	background: gray;
+}
+
+#landingPage #centerText {
+	position: absolute;
+	text-align: center;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: white;
+}
+
+#topRightMenu {
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	background: white;
+}
+
+#sideMenu {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 200px;
+	height: 100%;
+	background: black;
+	color: white;
+}
+/*//First Page*/
+
+
+
+
+
+#secondPage {
+	height: 100vh;
+	background: orange;
+}
